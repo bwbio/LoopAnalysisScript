@@ -1,6 +1,6 @@
 # Loop-analysis-scripts
 ## Full analysis pipeline
-NOTE: Keep all files (including .bedpe files and hg38 gff file) in a single directory. For the python scripts and Linux terminal, use this as the working directory.
+NOTE: Keep all files (including .bedpe files, hg38 gff file, and COSMICDB.tsv) in a single directory. For the python scripts and Linux terminal, use this as the working directory.
 
 Dependencies: bedtools, Python >= 3.7, pandas >= 1.2.0 
 
