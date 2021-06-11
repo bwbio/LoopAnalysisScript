@@ -1,6 +1,6 @@
 # Loop-analysis-scripts
 
-This code was used to identify common loops between acute myeloid leukemia samples, as well as their associated genes. The number of common loops and their associated genes was shown in Figure 1A as well as Supplementary Table 4.
+This code was used to identify common loops between acute myeloid leukemia samples, as well as their associated genes, in our paper entitled "Three-dimensional Genome Organization Maps in Normal Haematopoietic Stem Cells and Acute Myeloid Leukemia" (Wang et al., 2020; manuscript in revision). The number of common loops and their associated genes was shown in a comparative venn diagram (Figure 1A) as well as in tabular format; .xls file (Supplementary Table 4).
 
 ## Full analysis pipeline
 NOTE: Keep all files (including .bedpe files, hg38 gff file, and COSMICDB.tsv) in a single directory. For the python scripts and Linux terminal, use this as the working directory.
